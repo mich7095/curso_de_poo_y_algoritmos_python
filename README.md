@@ -2,6 +2,9 @@
   <h1>Programación orientada a objetos y Algoritmos con Python</h1>
 </div>
 
+<div align="center"> 
+  <img src="images/python.png" width="220">
+</div>
 
 ## Objetivos
 
