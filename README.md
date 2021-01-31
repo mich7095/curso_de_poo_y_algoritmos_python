@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Programación orientada a objetos y Algoritmos con Python</h1>
+  <h1>Programación orientada a objetos y algoritmos con Python</h1>
 </div>
 
 <div align="center"> 
@@ -30,6 +30,6 @@ Las ideas detrás de la programación orientada a objetos tienen más de 50 año
 Hasta ahora, en el curso previo de esta serie hemos utilizado programación orientada a objetos de manera implícita. Cuando decimos "Los objetos son las principales cosas que un programa de Python manipula. Cada objeto tiene un tipo que define qué cosas puede realizar un programa con dicho objeto.", nos estamos refiriendo a las ideas principales de la programación orientada a objetos. Hemos utilizado los tipos lista y diccionario, entre muchos otros, así como los métodos asociados a dichos tipos. Así como los creadores de un lenguaje de programación sólo pueden diseñar una fracción muy pequeña de todas las funciones útiles (como abs, float, type, etc.), también pueden escribir una fracción muy pequeña de los tipos útiles (int, str, dict, list, etc.). Ya sabemos los mecanismos que nos permiten crear funciones, ahora veremos los mecanismos que nos permiten crear nuevos tipos (o clases).
 
 
-El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/michel_brmdz/).
+El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/michel_brmdz/). Puedes consultar mi perfil de Platzi [aquí!](https://platzi.com/p/michel_brmdz/)
 
 ![Screenshot](images/diploma.jpg)
