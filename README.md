@@ -32,4 +32,6 @@ Hasta ahora, en el curso previo de esta serie hemos utilizado programación orie
 
 El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/michel_brmdz/). Puedes consultar mi perfil de Platzi [aquí!](https://platzi.com/p/michel_brmdz/)
 
+##Certificado
+
 ![Screenshot](images/diploma.jpg)
